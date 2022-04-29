@@ -3,13 +3,31 @@ const require = createRequire(import.meta.url);
 import fetch from "node-fetch";
 const prompt = require("prompt-sync")();
 
-const postcode = prompt("Please enter your postcode: ")
-const postcodeInfo = await fetch(`http://api.postcodes.io/postcodes/${postcode}`);
-const postcodeInfo2 = await postcodeInfo.json();
+let postcode = prompt("Please enter your postcode: ")
+let postcodeInfo = await fetch(`http://api.postcodes.io/postcodes/${postcode}`);
+let postcodeInfo2 = await postcodeInfo.json();
+
+while (!postcodeInfo.ok || postcodeInfo2.result.region !== 'London'){
+    try {
+        postcodeInfo = await fetch(`http://api.postcodes.io/postcodes/${postcode}`);
+        postcodeInfo2 = await postcodeInfo.json();
+        if (!postcodeInfo.ok){
+            throw 'This postcode is not valid'
+        }
+        if (postcodeInfo2.result.region !== 'London'){
+            throw 'This postcode is not covered by TFL'
+        }
+    }
+    catch (e){
+        console.log(e)
+        postcode = prompt("Please enter the correct postcode: ")
+    }
+}
 
 
 const postcodeLong = postcodeInfo2.result.longitude;
 const postcodeLat = postcodeInfo2.result.latitude;
+
 
 const nearestStop = await fetch(`https://api.tfl.gov.uk/StopPoint/?lat=${postcodeLat}&lon=${postcodeLong}&stopTypes=NaptanPublicBusCoachTram`)
 const nearestStop2 = await nearestStop.json();
