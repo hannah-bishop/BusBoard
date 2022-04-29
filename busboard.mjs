@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 
-const postcodeInfo = await fetch("http://api.postcodes.io/postcodes/nw51tl");
+const postcodeInfo = await fetch("http://api.postcodes.io/postcodes/se172tq");
 const postcodeInfo2 = await postcodeInfo.json();
 
 
