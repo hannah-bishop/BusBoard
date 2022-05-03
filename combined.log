@@ -1,0 +1,75 @@
+{"level":"info","message":"Information message","service":"user-service"}
+{"level":"error","message":"invalid postcode: utvsbhijndkmp","service":"user-service"}
+{"level":"error","message":"invalid postcode: wigvaeovnagw","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Nearest stops array: 490006380E,75.28326693792549,East Street,Stop E,490006380H,79.5064096547214,East Street,Stop H,490006380F,94.28217696435826,East Street,Stop F,490006380G,102.73005572984518,East Street,Stop G,490014501J,155.429436868129,Westmoreland Road,Stop J,490014180N,172.0674286928803,Penrose Street / Walworth Road,Stop S,490014180W,195.9931999906749,Penrose Street / Walworth Road,Stop T","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","service":"user-service"}
+{"level":"info","message":"[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.162112, postcode latitude: 51.490201","service":"user-service"}
+{"level":"error","message":"radius not large enough: 100","service":"user-service"}
+{"level":"info","message":"Common Name: Walpole Street, Indicator: Stop KA, naptanId: 490014150KA","service":"user-service"}
+{"level":"info","message":"Common Name: Duke Of York Square, Indicator: Stop KP, naptanId: 490006224KP","service":"user-service"}
+{"level":"info","message":"Common Name: Duke Of York Square, Indicator: Stop G, naptanId: 490006224G","service":"user-service"}
+{"level":"info","message":"Common Name: Draycott Place, Indicator: Stop, naptanId: 490016313E","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.162112, postcode latitude: 51.490201","service":"user-service"}
+{"level":"info","message":"Common Name: Walpole Street, Indicator: Stop KA, naptanId: 490014150KA","service":"user-service"}
+{"level":"info","message":"Common Name: Duke Of York Square, Indicator: Stop KP, naptanId: 490006224KP","service":"user-service"}
+{"level":"info","message":"Common Name: Duke Of York Square, Indicator: Stop G, naptanId: 490006224G","service":"user-service"}
+{"level":"info","message":"Common Name: Draycott Place, Indicator: Stop, naptanId: 490016313E","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.108434, postcode latitude: 51.458269","service":"user-service"}
+{"level":"info","message":"Common Name: Effra Parade, Indicator: Stop, naptanId: 490006454S","service":"user-service"}
+{"level":"info","message":"Common Name: Effra Parade, Indicator: Stop, naptanId: 490006454N","service":"user-service"}
+{"level":"info","message":"Common Name: Loughborough Park / Elveden House, Indicator: Stop, naptanId: 490006553W","service":"user-service"}
+{"level":"info","message":"Common Name: Hollybush Walk, Indicator: Stop, naptanId: 490008300N","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.248908, postcode latitude: 51.513309","service":"user-service"}
+{"level":"info","message":"Common Name: East Acton Lane / Old Oak Road, Indicator: Stop J, naptanId: 490011937J","service":"user-service"}
+{"level":"info","message":"Common Name: Old Oak Common Lane / Savoy Circus, Indicator: Stop K, naptanId: 490014446K","service":"user-service"}
+{"level":"info","message":"Common Name: Savoy Circus, Indicator: Stop E, naptanId: 490011937P","service":"user-service"}
+{"level":"info","message":"Common Name: Savoy Circus, Indicator: Stop F, naptanId: 490011937X","service":"user-service"}
+{"level":"info","message":"Common Name: Hilary Road, Indicator: Stop U, naptanId: 490011937N","service":"user-service"}
+{"level":"info","message":"Common Name: Western Avenue / Savoy Circus, Indicator: Stop L, naptanId: 490014446L","service":"user-service"}
+{"level":"info","message":"Common Name: Westway, Indicator: Stop D, naptanId: 490014446I","service":"user-service"}
+{"level":"info","message":"Common Name: Hemlock Road, Indicator: Stop W, naptanId: 490015227S","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.248908, postcode latitude: 51.513309","service":"user-service"}
+{"level":"info","message":"Common Name: East Acton Lane / Old Oak Road, Indicator: Stop J, naptanId: 490011937J","service":"user-service"}
+{"level":"info","message":"Common Name: Old Oak Common Lane / Savoy Circus, Indicator: Stop K, naptanId: 490014446K","service":"user-service"}
+{"level":"info","message":"Common Name: Savoy Circus, Indicator: Stop E, naptanId: 490011937P","service":"user-service"}
+{"level":"info","message":"Common Name: Savoy Circus, Indicator: Stop F, naptanId: 490011937X","service":"user-service"}
+{"level":"info","message":"Common Name: Hilary Road, Indicator: Stop U, naptanId: 490011937N","service":"user-service"}
+{"level":"info","message":"Common Name: Western Avenue / Savoy Circus, Indicator: Stop L, naptanId: 490014446L","service":"user-service"}
+{"level":"info","message":"Common Name: Westway, Indicator: Stop D, naptanId: 490014446I","service":"user-service"}
+{"level":"info","message":"Common Name: Hemlock Road, Indicator: Stop W, naptanId: 490015227S","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.248908, postcode latitude: 51.513309","service":"user-service"}
+{"level":"info","message":"Common Name: East Acton Lane / Old Oak Road, Indicator: Stop J, naptanId: 490011937J","service":"user-service"}
+{"level":"info","message":"Common Name: Old Oak Common Lane / Savoy Circus, Indicator: Stop K, naptanId: 490014446K","service":"user-service"}
+{"level":"info","message":"Common Name: Savoy Circus, Indicator: Stop E, naptanId: 490011937P","service":"user-service"}
+{"level":"info","message":"Common Name: Savoy Circus, Indicator: Stop F, naptanId: 490011937X","service":"user-service"}
+{"level":"info","message":"Common Name: Hilary Road, Indicator: Stop U, naptanId: 490011937N","service":"user-service"}
+{"level":"info","message":"Common Name: Western Avenue / Savoy Circus, Indicator: Stop L, naptanId: 490014446L","service":"user-service"}
+{"level":"info","message":"Common Name: Westway, Indicator: Stop D, naptanId: 490014446I","service":"user-service"}
+{"level":"info","message":"Common Name: Hemlock Road, Indicator: Stop W, naptanId: 490015227S","service":"user-service"}
+{"level":"info","message":"Bus stop closure for Old Oak Common Lane / Savoy Circus (Stop K)","service":"user-service"}
