@@ -80,4 +80,16 @@ for (let i=0; i<2; i++){
     arrivals.sort((a,b) => a.timeToStation - b.timeToStation);
     const arrivalsSlice = arrivals.slice(0,5);
     arrivalsSlice.forEach(arrival => console.log(`Bus to ${arrival.destinationName} is in ${arrival.timeToStation} seconds`));
+    let directionschoice = prompt('Would you like directions to the bus stop? (yes/no) ')
+    if (directionschoice === 'yes'){
+        const directions = await fetch(`https://api.tfl.gov.uk/Journey/JourneyResults/${postcode}/to/${nearestStopsArray2[i][0]}?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy`);
+        logger.info(`URL: https://api.tfl.gov.uk/Journey/JourneyResults/${postcode}/to/${nearestStopsArray2[i][0]}?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy `)
+        const directionsjson = await directions.json();
+        for (let j=0; j<directionsjson.journeys[0].legs[0].instruction.steps.length ; j++){
+            console.log(directionsjson.journeys[0].legs[0].instruction.steps[j].descriptionHeading, directionsjson.journeys[0].legs[0].instruction.steps[j].description)
+        }
+        
+    }
+
 }
+

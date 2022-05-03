@@ -73,3 +73,105 @@
 {"level":"info","message":"Common Name: Westway, Indicator: Stop D, naptanId: 490014446I","service":"user-service"}
 {"level":"info","message":"Common Name: Hemlock Road, Indicator: Stop W, naptanId: 490015227S","service":"user-service"}
 {"level":"info","message":"Bus stop closure for Old Oak Common Lane / Savoy Circus (Stop K)","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/SE172TQ/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/SE172TQ/to/490006380H?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380H?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380H?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380H?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"postcode longtitude: -0.094285, postcode latitude: 51.487193","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop E, naptanId: 490006380E","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop H, naptanId: 490006380H","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop F, naptanId: 490006380F","service":"user-service"}
+{"level":"info","message":"Common Name: East Street, Indicator: Stop G, naptanId: 490006380G","service":"user-service"}
+{"level":"info","message":"Common Name: Westmoreland Road, Indicator: Stop J, naptanId: 490014501J","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop S, naptanId: 490014180N","service":"user-service"}
+{"level":"info","message":"Common Name: Penrose Street / Walworth Road, Indicator: Stop T, naptanId: 490014180W","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
+{"level":"info","message":"URL: https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380H?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy ","service":"user-service"}
