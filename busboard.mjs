@@ -3,7 +3,7 @@ const require = createRequire(import.meta.url);
 import fetch from "node-fetch";
 const prompt = require("prompt-sync")();
 
-let postcode = prompt("Please enter your postcode: ")
+let postcode = prompt("Please enter your postcode: ");
 let postcodeInfo = await fetch(`http://api.postcodes.io/postcodes/${postcode}`);
 let postcodeInfo2 = await postcodeInfo.json();
 
@@ -12,25 +12,42 @@ while (!postcodeInfo.ok || postcodeInfo2.result.region !== 'London'){
         postcodeInfo = await fetch(`http://api.postcodes.io/postcodes/${postcode}`);
         postcodeInfo2 = await postcodeInfo.json();
         if (!postcodeInfo.ok){
-            throw 'This postcode is not valid'
+            throw 'This postcode is not valid';
         }
         if (postcodeInfo2.result.region !== 'London'){
-            throw 'This postcode is not covered by TFL'
+            throw 'This postcode is not covered by TFL';
         }
     }
     catch (e){
-        console.log(e)
-        postcode = prompt("Please enter the correct postcode: ")
+        console.log(e);
+        postcode = prompt("Please enter the correct postcode: ");
     }
 }
 
 
 const postcodeLong = postcodeInfo2.result.longitude;
 const postcodeLat = postcodeInfo2.result.latitude;
+let radius = prompt("Enter your desired radius :");
+let nearestStop = await fetch(`https://api.tfl.gov.uk/StopPoint/?lat=${postcodeLat}&lon=${postcodeLong}&stopTypes=NaptanPublicBusCoachTram&radius=${radius}`)
+let nearestStop2 = await nearestStop.json();
+
+while( !nearestStop.ok || nearestStop2.stopPoints.length < 2){
+    try{
+        nearestStop = await fetch(`https://api.tfl.gov.uk/StopPoint/?lat=${postcodeLat}&lon=${postcodeLong}&stopTypes=NaptanPublicBusCoachTram&radius=${radius}`);
+        nearestStop2 = await nearestStop.json();
+      if(!nearestStop.ok){
+        throw "You have not entered a number less than 86000";
+    }
+      if(nearestStop2.stopPoints.length < 2){
+          throw "Not able to find at least 2 bustop within this radius";
+      }
+    } catch(e){
+        console.log(e);
+        radius = prompt("Enter the another radius :");
+    }   
+}
 
 
-const nearestStop = await fetch(`https://api.tfl.gov.uk/StopPoint/?lat=${postcodeLat}&lon=${postcodeLong}&stopTypes=NaptanPublicBusCoachTram`)
-const nearestStop2 = await nearestStop.json();
 const nearestStopsArray = nearestStop2.stopPoints;
 let nearestStopsArray2 = [];
 
